@@ -12,7 +12,7 @@ using RectanglesTask.Models.DAL;
 namespace RectanglesTask.Migrations
 {
     [DbContext(typeof(RectangleContext))]
-    [Migration("20231115204207_initial")]
+    [Migration("20231116205848_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
